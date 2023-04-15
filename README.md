@@ -4,16 +4,16 @@
 A TC2030-compatible pogo pin debug/programming probe.
 
 
-\#\# Materials:
+## Materials:
 1. 1x PogoProbe PCB
 2. 6x P50-J1 Pogo Pins
 3. 3x M0.9 x 20mm steel guiding rod
 4. 1x P1.27mm 2x03 SMD Header
 5. Super Glue and a PCB with a TC2030 footprint
 
-\#\# Assembly Instructions:
+## Assembly Instructions:
 
-![](Assembly\ Pics/a2f339c8692e3a03353c79204f8bfb16.jpeg)
+![]("Assembly Pics"/a2f339c8692e3a03353c79204f8bfb16.jpeg)
 1.  Separate the PCBs from the panel
 ![](Assembly\ Pics/9c3dbc39c936bf1e0f1c6698980b8b95.jpeg)
 2.  Add the guiding pins and glue them with a drop of superglue. Be careful not to pour any superglue into the other 6 holes. I used tape to cover the pogo pin holes.
