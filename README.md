@@ -3,7 +3,7 @@
 ## Description
 A TC2030-compatible pogo pin debug/programming probe.
 
-<img src="Assembly/20230415_014813.jpg" width="300"/>
+<img src="assembly/20230415_014813.jpg" width="300"/>
 
 ## Materials:
 1. 1x PogoProbe PCB
